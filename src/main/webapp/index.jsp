@@ -68,8 +68,8 @@ span.psw {
 </head>
 <body>
 
-<h2>Login Form</h2>
-
+<!-- <h2>Login Form</h2>
+ -->
 <form action="Login.jsp" method="post">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
